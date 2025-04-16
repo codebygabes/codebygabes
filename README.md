@@ -17,7 +17,7 @@ My name is João Gabriel dos Santos Felipe, I'm 18 years old, and I'm originally
         <img 
             alt="Personal Email" 
             title="Contact me by email" 
-            src="https://custom-icon-badges.demolab.com/badge/Meu%20Contato-000000?style=for-the-badge&logo=mail&logoColor=white&labelColor=2e2e2e"
+            src="https://custom-icon-badges.demolab.com/badge/My%20Contact-000000?style=for-the-badge&logo=mail&logoColor=white&labelColor=2e2e2e"
         />
     </a>
     <a href="https://steamcommunity.com/id/sukw/">
@@ -31,7 +31,7 @@ My name is João Gabriel dos Santos Felipe, I'm 18 years old, and I'm originally
         <img 
             alt="Notion" 
             title="My Notion workspace" 
-            src="https://custom-icon-badges.demolab.com/badge/Notion-MEU%20ESPA%C3%87O-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=2e2e2e"
+            src="https://custom-icon-badges.demolab.com/badge/Notion-My%20Space-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=2e2e2e"
         />
     </a>
     <a href="https://github.com/codebygabes?tab=followers">
