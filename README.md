@@ -1,8 +1,20 @@
-# 🦇 Hey, I'm Gabes!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%F0%9F%A6%87+Hey%2C+I'm+Gabes+!" 
+      alt="Typing SVG"
+      style="background-color: #000000; border-radius: 6px; padding: 6px;"
+    >
+  </a>
+</div>
+
+#
 
 **`FullStack Developer.`**
 
 My name is João Gabriel dos Santos Felipe, I'm 18 years old, and I'm originally from Minas Gerais, but I currently live in the Federal District. I graduated from high school and am currently pursuing a degree in Analysis and Systems Development at [Universidade Católica de Brasília](https://ucb.catolica.edu.br/cursos-presenciais?utm_source=google&utm_medium=cpc&utm_campaign=matead-2025-01&utm_content=PMAX-2025-01pmax-2025-01&utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=9711875664&hsa_cam=21983571512&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwh_i_BhCzARIsANimeoH6_eI2IC5PrKjLhLd3XU6GQIJxVwXl2ulLtocuGBlEOLrMfcjrgGYaAkl-EALw_wcB). I'm passionate about technology, design, and programming, and I share my projects and learnings on social media. I'm still at the beginning of my journey, but I'm already looking for new challenges to help me grow as a developer and creator of digital solutions.
+
+#
 
 **`My Social Media:`**
 
